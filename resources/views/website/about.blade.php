@@ -12,19 +12,13 @@
         <div>
             <h2>Mission</h2>
             <p>
-                Gutt d'wäiss as nët, gei hu soubal Kléder Blieder. 
-                Hie Schiet schaddreg um, wellen schléit mir op. Ston sinn Hämmelsbrot do hir,
-                och Frot uechter d'Stroos da. Ze all haut koum esou, schéi zielen schnéiwäiss wéi wa.
-                Mat blénken Fréijor en, Gaart d'Blumme néierens fu rem.
+                Aims to deliver all projects in the committed time frame with utmost consideration for care and quality, specializing in Architectural Design, Structural Design and Construction, and prioritizing the satisfaction and building a good relationship with our clients.
             </p>
         </div>
         <div>
              <h2>Vision</h2>
              <p>
-                 Do den Haus main schléit. Ech do ruffen schléit. Keen séngt déi jo, wee as vill séngt. 
-                 Ston Himmel Freiesch dat mä. Drun Friemd un hun, Engel d'Mier d'Kamäiner fu wou. 
-                 Och Wisen iw'rem hannendrun ze,
-                zum fort Säiten iwerall no, ech ménger Himmel Feierwon ké.
+                 To be a leading Structural Design, Architectural Design and Construction group, and provide continuous prominence to deliver projects in the committed time frame, with utmost care and consideration for quality.
              </p>
         </div>
         <div>
