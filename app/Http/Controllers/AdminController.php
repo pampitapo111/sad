@@ -255,7 +255,7 @@ public function destroy_job($id, Request $request)
     public function application($id)
     {
         $jobs = Job::where('id',$id)->get();
-        $application = Application::with('jobs')->where('id',$id)->orderBy('created_at')->paginate(10);
+        $application = Application::with('jobs')->where('job_id',$id)->orderBy('created_at')->paginate(10);
         return view('admin.application',['application'=>$application,'jobs'=>$jobs]);
     }
 
