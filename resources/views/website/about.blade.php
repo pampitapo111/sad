@@ -24,10 +24,13 @@
         <div>
             <h2>Core</h2> 
             <p>
-                Ston welle duerch dem hu, derfir Keppchen Margréitchen fu bei.
-                Hir hire jéngt da. Dem Blummen fergiess op, déi si haut voll, mä Bass gréng laanscht sou. 
-                Hemecht verstoppen si hin, mä iech d'Loft Blénkeg vun. Fu bei rout méngem, am eng Welt erem d'Vioule.
-                Hir dé wäit frësch. Iwer Feld wa nët, Noper erwaacht net dé.
+                Passion
+	Excellence
+	Safety
+		Passion for building, designing, and construction that develops our employees and enrich the lives of our clients. We keep our commitments and have integrity on what we do. 
+		Our commitment to excellence supports our entire operation. We aspire to be the best and take pride in our workmanship.
+		We ensure the safety of our employees and workers. It is our principal responsibility to guarantee and provide safety training for our employees and workers.
+
             </p>
         </div>
     </div>
