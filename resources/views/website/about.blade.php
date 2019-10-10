@@ -25,8 +25,14 @@
             <h2>Core</h2> 
             <p>
                 Passion
-	Excellence
-	Safety
+               </p>
+               <p>
+	            Excellence
+                </p>
+                <p>
+	            Safety
+                </p>
+                <p>
 		Passion for building, designing, and construction that develops our employees and enrich the lives of our clients. We keep our commitments and have integrity on what we do. 
 		Our commitment to excellence supports our entire operation. We aspire to be the best and take pride in our workmanship.
 		We ensure the safety of our employees and workers. It is our principal responsibility to guarantee and provide safety training for our employees and workers.
